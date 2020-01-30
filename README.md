@@ -1,6 +1,7 @@
 
 # Nossila Text Fixed Length
 A small, short and direct .NET library to serialize and parse fixed length content.
+
 **Nuget package:** https://www.nuget.org/packages/Nossila.Text.FixedLength/
 
 ## Serializing
